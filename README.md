@@ -21,7 +21,7 @@ Scan Modes:
 2. Run a Scan:
   sudo ./scanner.sh <target_ip> <mode>
 
-3.Help Menu:
+3. Help Menu:
 ./scanner.sh help
 
 📋 Requirements
